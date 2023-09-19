@@ -6,9 +6,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyadmoataz&label=Profile%20views&color=0e75b6&style=flat" alt="zyadmoataz" /> </p>
 
-- 🌱 I’m currently learning **React JS, & Node JS**
+👨‍💻 Frontend Developer | 🌐 Aspiring MERN Stack Enthusiast | 🚀 Crafting User-Centric Web Experiences
 
-- 💬 Ask me about **Frontend Development (React JS)**
+🎨 Transforming ideas into beautifully designed, responsive web interfaces.
+
+🚧 On a journey to master the MERN (MongoDB, Express.js, React, Node.js) stack.
+
+🛠️ Proficient in HTML, CSS, JavaScript, and the art of creating captivating user interfaces.
+
+📚 Dedicated to continuous learning and growth, embracing new challenges with excitement.
+
+💡 Exploring the frontiers of web development and building a bridge to full-stack expertise.
+
+💼 Seeking opportunities to collaborate and contribute to open-source projects.
 
 - 📫 How to reach me **zyaadmoataz@gmail.com**
 
