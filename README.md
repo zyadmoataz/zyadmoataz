@@ -1,4 +1,4 @@
-[![MasterHead] (https://www.noritechnology.com/front/img/nori/gif/web-development-Banners.gif)](https://zyadmoataz.io)  
+[![MasterHead] (https://www.noritechnology.com/front/img/nori/gif/web-development-Banners.gif)]
 <h1 align="center">Hi 👋, I'm Zyad Moataz</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
