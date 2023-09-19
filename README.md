@@ -35,5 +35,5 @@
 
 
 
-<p><img  src="https://github-readme-stats.vercel.app/api?username=zyadmoataz&show_icons=true&locale=en" alt="zyadmoataz" /></p>
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=zyadmoataz&" alt="zyadmoataz" /></p>
+<p><img  width ="500" src="https://github-readme-stats.vercel.app/api?username=zyadmoataz&show_icons=true&locale=en" alt="zyadmoataz" /></p>
+<p><img  width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=zyadmoataz&" alt="zyadmoataz" /></p>
