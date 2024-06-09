@@ -4,25 +4,25 @@
 <h3 align="center">A passionate Frontend Developer from Egypt </h3>
 
 
-<img align="center" alt="Coding" src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
+# <img align="center" alt="Coding" src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyadmoataz&label=Profile%20views&color=0e75b6&style=flat" alt="zyadmoataz" /> </p>
 
-# 👨‍💻 Frontend Developer | 🌐 Passionate about Advanced Web Technologies | 🚀 Creating Responsive and User-Friendly Web Experiences
+## 👨‍💻 Frontend Developer | 🌐 Passionate about Advanced Web Technologies | 🚀 Creating Responsive and User-Friendly Web Experiences
 
-# 🎨 Transforming ideas into beautifully designed, fully responsive web interfaces.
+## 🎨 Transforming ideas into beautifully designed, fully responsive web interfaces.
 
-# 🚧 Focused on mastering front-end development with a keen interest in React and its ecosystem.
+## 🚧 Focused on mastering front-end development with a keen interest in React and its ecosystem.
 
-# 🛠️ Proficient in HTML5, CSS3, JavaScript, and modern CSS frameworks like Tailwind CSS, Bootstrap 5, and Styled Components. Skilled in React, React Hooks, Redux, Redux Toolkit, and React Query.
+## 🛠️ Proficient in HTML5, CSS3, JavaScript, and modern CSS frameworks like Tailwind CSS, Bootstrap 5, and Styled Components. Skilled in React, React Hooks, Redux, Redux Toolkit, and React Query.
 
-# 📚 Dedicated to continuous learning, always eager to grasp new technologies in the rapidly evolving front-end landscape.
+## 📚 Dedicated to continuous learning, always eager to grasp new technologies in the rapidly evolving front-end landscape.
 
-# 💡 Actively involved in building responsive web applications that showcase my skills, available on GitHub.
+## 💡 Actively involved in building responsive web applications that showcase my skills, available on GitHub.
 
-# 💼 Seeking opportunities to collaborate, innovate, and contribute to projects that push the boundaries of web development.
+## 💼 Seeking opportunities to collaborate, innovate, and contribute to projects that push the boundaries of web development.
 
-# 📫 How to reach me **zyaadmoataz@gmail.com**
+## 📫 How to reach me **zyaadmoataz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
