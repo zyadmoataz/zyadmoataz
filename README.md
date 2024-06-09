@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" src="[https://www.noritechnology.com/front/img/nori/gif/web-development-Banners.gif](https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02)">
+<img align="center" alt="Coding" src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 <h1 align="center">Hi 👋, I'm Zyad Moataz</h1>
 <h3 align="center">A passionate Frontend Developer from Egypt </h3>
 
