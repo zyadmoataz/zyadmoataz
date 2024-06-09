@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" src="https://www.noritechnology.com/front/img/nori/gif/web-development-Banners.gif">
+<img align="center" alt="Coding" src="[https://www.noritechnology.com/front/img/nori/gif/web-development-Banners.gif](https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02)">
 <h1 align="center">Hi 👋, I'm Zyad Moataz</h1>
 <h3 align="center">A passionate Frontend Developer from Egypt </h3>
 
