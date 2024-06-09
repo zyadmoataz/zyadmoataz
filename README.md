@@ -8,19 +8,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyadmoataz&label=Profile%20views&color=0e75b6&style=flat" alt="zyadmoataz" /> </p>
 
-### 👨‍💻 Frontend Developer | 🌐 Passionate about Advanced Web Technologies | 🚀 Creating Responsive and User-Friendly Web Experiences
+#### 👨‍💻 Frontend Developer | 🌐 Passionate about Advanced Web Technologies | 🚀 Creating Responsive and User-Friendly Web Experiences
 
-### 🎨 Transforming ideas into beautifully designed, fully responsive web interfaces.
+#### 🎨 Transforming ideas into beautifully designed, fully responsive web interfaces.
 
-### 🚧 Focused on mastering front-end development with a keen interest in React and its ecosystem.
+#### 🚧 Focused on mastering front-end development with a keen interest in React and its ecosystem.
 
-### 🛠️ Proficient in HTML5, CSS3, JavaScript, and modern CSS frameworks like Tailwind CSS, Bootstrap 5, and Styled Components. Skilled in React, React Hooks, Redux, Redux Toolkit, and React Query.
+#### 🛠️ Proficient in HTML5, CSS3, JavaScript, and modern CSS frameworks like Tailwind CSS, Bootstrap 5, and Styled Components. Skilled in React, React Hooks, Redux, Redux Toolkit, and React Query.
 
-### 📚 Dedicated to continuous learning, always eager to grasp new technologies in the rapidly evolving front-end landscape.
+#### 📚 Dedicated to continuous learning, always eager to grasp new technologies in the rapidly evolving front-end landscape.
 
-### 💡 Actively involved in building responsive web applications that showcase my skills, available on GitHub.
+#### 💡 Actively involved in building responsive web applications that showcase my skills, available on GitHub.
 
-### 💼 Seeking opportunities to collaborate, innovate, and contribute to projects that push the boundaries of web development.
+#### 💼 Seeking opportunities to collaborate, innovate, and contribute to projects that push the boundaries of web development.
 
 ## 📫 How to reach me **zyaadmoataz@gmail.com**
 
