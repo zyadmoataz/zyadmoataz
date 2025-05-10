@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Zyad Moataz</h1>
-<h3 align="center">A passionate Frontend Developer | React JS from Egypt</h3>
+<h3 align="center">A passionate Frontend Developer from Egypt | React JS | Next JS</h3>
 
 
 <img align="right" width="450px" alt="Coding" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
