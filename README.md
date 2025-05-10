@@ -22,7 +22,7 @@
 
 #### 💼 Seeking opportunities to collaborate, innovate, and contribute to projects that push the boundaries of web development.
 
-### 📫 How to reach me **zyaadmoataz@gmail.com**
+### 📫 How to reach me **ziaadmoataz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
