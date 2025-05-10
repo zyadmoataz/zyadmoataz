@@ -14,7 +14,7 @@
 
 #### 🚧 Focused on mastering front-end development with a keen interest in React and its ecosystem.
 
-#### 🛠️ Proficient in HTML5, CSS3, JavaScript, and modern CSS frameworks like Tailwind CSS, Bootstrap 5, and Styled Components. Skilled in React, React Hooks, Redux, Redux Toolkit, and React Query.
+#### 🛠️ Proficient in HTML5, CSS3, JavaScript, and modern CSS frameworks like Tailwind CSS, Bootstrap 5, and Styled Components. Skilled in React, React Hooks, Redux, Next JS, Typescript, and React Query.
 
 #### 📚 Dedicated to continuous learning, always eager to grasp new technologies in the rapidly evolving front-end landscape.
 
