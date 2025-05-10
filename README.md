@@ -28,7 +28,7 @@
 <p align="left">
 <a href="https://fb.com/zyad moataz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zyad moataz" height="30" width="40" /></a>
 <a href="https://instagram.com/zyaadmoataz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zyaadmoataz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zyad moataz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zyad moataz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zyad-moataz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zyad moataz" height="30" width="40" /></a>
 
 </p>
 
