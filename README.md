@@ -11,18 +11,20 @@
 
 </div>
 
----
+<img align="right" width="380px" alt="Coding GIF" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
 ### 👨‍💻 About Me
 
-I am a results-oriented **Frontend Engineer** with 2+ years of hands-on production experience crafting fast, scalable, and resilient web applications using **React.js, Next.js, TypeScript, and Tailwind CSS**[cite: 1, 2, 4].
+I am a results-oriented **Frontend Engineer** with 2+ years of hands-on production experience crafting fast, scalable, and resilient web applications using **React.js, Next.js, TypeScript, and Tailwind CSS**.
 
 - 🛍️ **Production & Regional Scope:** Built e-commerce platforms, SaaS portals, and marketing engines across Egypt and Saudi Arabia (KSA).
 - 💳 **Payment Checkout Systems:** Integrated secure, production payment gateways with **Mastercard** (Blooms Egypt) and **Paymob** (Origami Aura).
-- ⚡ **Performance & State Caching:** Improved Core Web Vitals (CLS) by **~35%** and eliminated up to **~40%** of redundant server queries using **TanStack Query** caching strategies[cite: 2, 4].
-- 🤖 **AI-Assisted Efficiency:** Proficient in leveraging AI tooling (GitHub Copilot, Cursor) for fast prototyping, automated test generation, and comprehensive code audits—doubling engineering velocity while maintaining clean architecture[cite: 2, 4].
-- 👥 **Technical Ownership:** Led frontend delivery for a 7-person engineering team at Blooms Egypt—managing sprint goals, PR code reviews, and coding standards[cite: 2, 4].
-- 🚀 **Adaptability & Growth Mindset:** Highly adaptable to diverse team structures and tech stacks; fast learner with a proven ability to adopt new tools and frameworks seamlessly[cite: 2, 4].
+- ⚡ **Performance & State Caching:** Improved Core Web Vitals (CLS) by **~35%** and eliminated up to **~40%** of redundant server queries using **TanStack Query** caching strategies.
+- 🤖 **AI-Assisted Efficiency:** Proficient in leveraging AI tooling (GitHub Copilot, Cursor, Gemini) for fast prototyping, automated test generation, and comprehensive code audits—doubling engineering velocity while maintaining clean architecture.
+- 👥 **Technical Ownership:** Led frontend delivery for a 7-person engineering team at Blooms Egypt—managing sprint goals, PR code reviews, and coding standards.
+- 🚀 **Adaptability & Growth Mindset:** Highly adaptable to diverse team structures and tech stacks; fast learner with a proven ability to adopt new tools and frameworks seamlessly.
+
+<br />
 
 ---
 
@@ -65,13 +67,13 @@ I am a results-oriented **Frontend Engineer** with 2+ years of hands-on producti
 
 | Project | What I Built | Live Link |
 | :--- | :--- | :---: |
-| 🌸 **Blooms Egypt** | E-Commerce Platform & Admin Dashboard with Mastercard Checkout Integration[cite: 2, 4]. | [bloomsegypt.com](https://bloomsegypt.com) |
-| 💼 **MyCash** | Internal SaaS platforms serving active business users in Saudi Arabia (KSA)[cite: 2, 4]. | [mycash.sa](https://mycash.sa) |
-| 🛍️ **Origami Aura** | Full-Stack E-Commerce CMS (Freelance MVP) with Paymob Payments & Bosta Shipping[cite: 2, 4]. | [origami-aura.vercel.app](https://origami-aura.vercel.app/en) |
-| 🌐 **Edge BPO** | Responsive Next.js web app with structured JSON-LD schema for search indexing[cite: 2, 4]. | [edgebpo.com](https://edgebpo.com) |
+| 🌸 **Blooms Egypt** | E-Commerce Platform & Admin Dashboard with Mastercard Checkout Integration. | [bloomsegypt.com](https://bloomsegypt.com) |
+| 💼 **MyCash** | Internal SaaS platforms serving active business users in Saudi Arabia (KSA). | [mycash.sa](https://mycash.sa) |
+| 🛍️ **Origami Aura** | Full-Stack E-Commerce CMS (Freelance MVP) with Paymob Payments & Bosta Shipping. | [origami-aura.vercel.app](https://origami-aura.vercel.app/en) |
+| 🌐 **Edge BPO** | Responsive Next.js web app with structured JSON-LD schema for search indexing. | [edgebpo.com](https://edgebpo.com) |
 
 ---
 
 ### 🤝 Let's Connect
 
-Whether you are looking for a mid-level Frontend Engineer for on-site, hybrid, or remote roles, feel free to reach out directly via [Email](mailto:ziaadmoataz@gmail.com?subject=Opportunity%20%2F%20Collaboration%20-%20Frontend%20Engineer%20Role) or [WhatsApp](https://wa.me/201012766890?text=Hi%20Zyad%2C%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20regarding%20a%20Frontend%20Engineering%20opportunity.).
+Whether you are looking for a mid-level Frontend Engineer for on-site, hybrid, or remote roles, feel free to reach out directly via [Email](mailto:ziaadmoataz@gmail.com?subject=Opportunity%20%2F%20Collaboration%20-%20Frontend%20Engineer%20Role&body=Hi%20Zyad%2C%0A%0AI%20reviewed%20your%20profile%20and%20would%20like%20to%20discuss%20an%20opportunity%20with%20our%20team.%0A%0ABest%20regards%2C) or [WhatsApp](https://wa.me/201012766890?text=Hi%20Zyad%2C%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20regarding%20a%20Frontend%20Engineering%20opportunity.).
