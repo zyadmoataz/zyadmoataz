@@ -24,8 +24,6 @@ I am a results-oriented **Frontend Engineer** with 2+ years of hands-on producti
 - 👥 **Technical Ownership:** Led frontend delivery for a 7-person engineering team at Blooms Egypt—managing sprint goals, PR code reviews, and coding standards.
 - 🚀 **Adaptability & Growth Mindset:** Highly adaptable to diverse team structures and tech stacks; fast learner with a proven ability to adopt new tools and frameworks seamlessly.
 
-<br />
-
 ---
 
 ### 🛠️ Technical Stack
