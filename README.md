@@ -1,41 +1,57 @@
+<div align="center">
 
+# Hi 👋, I'm Zyad Moataz
+### Frontend Engineer | React.js & Next.js Specialist
 
-<h1 align="center">Hi 👋, I'm Zyad Moataz</h1>
-<h3 align="center">A passionate Frontend Developer from Egypt | React JS | Next JS</h3>
+[![Profile Views](https://komarev.com/ghpvc/?username=zyadmoataz&color=blue)](https://github.com/zyadmoataz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zyad-moataz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-react-js-navy.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziaadmoataz@gmail.com)
 
+</div>
 
-<img align="right" width="450px" alt="Coding" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zyadmoataz&label=Profile%20views&color=0e75b6&style=flat" alt="zyadmoataz" /> </p>
+### 🚀 About Me
 
-#### 👨‍💻 Frontend Developer | 🌐 Passionate about Advanced Web Technologies | 🚀 Creating Responsive and User-Friendly Web Experiences
+- 💻 **Frontend Engineer** with 2+ years of production experience building scalable web applications using **React.js, Next.js, TypeScript, and Tailwind CSS**.
+- 💳 **Payment Gateway Integrations:** Integrated production checkout systems with **Mastercard** (Blooms Egypt) and **Paymob** (Origami Aura).
+- ⚡ **Performance & Web Vitals:** Boosted page load times and Core Web Vitals by **~35%** (CLS optimization) and reduced redundant server requests by **~40%** using **TanStack Query** caching.
+- 👥 **Technical Leadership:** Led frontend delivery for a 7-person team at Blooms Egypt, managing sprint planning, PR code reviews, and architectural standards.
 
-#### 🎨 Transforming ideas into beautifully designed, fully responsive web interfaces.
+---
 
-#### 🚧 Focused on mastering front-end development with a keen interest in React and its ecosystem.
+### 🛠️ Tech Stack & Skills
 
-#### 🛠️ Proficient in HTML5, CSS3, JavaScript, and modern CSS frameworks like Tailwind CSS, Bootstrap 5, and Styled Components. Skilled in React, React Hooks, Redux, Next JS, Typescript, and React Query.
-
-#### 📚 Dedicated to continuous learning, always eager to grasp new technologies in the rapidly evolving front-end landscape.
-
-#### 💡 Actively involved in building responsive web applications that showcase my skills, available on GitHub.
-
-#### 💼 Seeking opportunities to collaborate, innovate, and contribute to projects that push the boundaries of web development.
-
-### 📫 How to reach me **ziaadmoataz@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/zyad moataz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zyad moataz" height="30" width="40" /></a>
-<a href="https://instagram.com/zyaadmoataz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zyaadmoataz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zyad-moataz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zyad moataz" height="30" width="40" /></a>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
+### 🌟 Featured Production Projects
 
+| Project | Description | Live Demo |
+| :--- | :--- | :---: |
+| 🛍️ **Origami Aura** | Full-Stack E-Commerce CMS built with Next.js App Router, TypeScript, Paymob Payments, and Bosta Shipping. | [View Live](https://origami-aura.vercel.app/en) |
+| 🌸 **Blooms Egypt** | E-Commerce Platform & Admin Dashboard with Mastercard Checkout Integration and Core Web Vitals Optimization. | [View Live](https://bloomsegypt.com) |
+| 💼 **MyCash** | Internal SaaS Platforms serving active business users across Saudi Arabia (KSA) with React & TanStack Query. | [View Live](https://mycash.sa) |
+| 🏢 **Edge BPO** | High-performance Next.js application with structured JSON-LD schema markup for enhanced organic search indexing. | [View Live](https://edgebpo.com) |
 
-<p><img  width ="500" align="center" src="https://github-readme-stats.vercel.app/api?username=zyadmoataz&show_icons=true&locale=en" alt="zyadmoataz" /></p>
-<p><img  width="500" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zyadmoataz&" alt="zyadmoataz" /></p>
+---
+
+<div align="center">
+
+### 📊 GitHub Activity
+
+![Zyad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyadmoataz&show_icons=true&theme=tokyonight&hide_border=true)
+
+</div>
