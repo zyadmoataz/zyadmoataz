@@ -1,9 +1,8 @@
 <div align="center">
 
 # Hi 👋, I'm Zyad Moataz
-### Frontend Engineer | React.js & Next.js Specialist
+### Frontend Engineer | React.js & Next.js
 
-[![Profile Views](https://komarev.com/ghpvc/?username=zyadmoataz&color=blue)](https://github.com/zyadmoataz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zyad-moataz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-react-js-navy.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziaadmoataz@gmail.com)
@@ -12,16 +11,18 @@
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-- 💻 **Frontend Engineer** with 2+ years of production experience building scalable web applications using **React.js, Next.js, TypeScript, and Tailwind CSS**.
-- 💳 **Payment Gateway Integrations:** Integrated production checkout systems with **Mastercard** (Blooms Egypt) and **Paymob** (Origami Aura).
-- ⚡ **Performance & Web Vitals:** Boosted page load times and Core Web Vitals by **~35%** (CLS optimization) and reduced redundant server requests by **~40%** using **TanStack Query** caching.
-- 👥 **Technical Leadership:** Led frontend delivery for a 7-person team at Blooms Egypt, managing sprint planning, PR code reviews, and architectural standards.
+I'm a Frontend Engineer with 2+ years of production experience building web applications using **React.js, Next.js, TypeScript, and Tailwind CSS**. 
+
+- 🛍️ **Production Experience:** Built e-commerce platforms, SaaS dashboards, and marketing web apps across Egypt and Saudi Arabia (KSA).
+- 💳 **Payment Integrations:** Integrated secure checkout flows with **Mastercard** (Blooms Egypt) and **Paymob** (Origami Aura).
+- ⚡ **Performance & State:** Improved Core Web Vitals (CLS) by ~35% and reduced redundant API calls by ~40% using **TanStack Query** caching strategies.
+- 👥 **Technical Ownership:** Led frontend delivery for a 7-person team at Blooms Egypt—managing sprint tasks, PR reviews, and code quality.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -37,21 +38,11 @@
 
 ---
 
-### 🌟 Featured Production Projects
+### 💼 Featured Work
 
-| Project | Description | Live Demo |
+| Project | What I Built | Live Link |
 | :--- | :--- | :---: |
-| 🛍️ **Origami Aura** | Full-Stack E-Commerce CMS built with Next.js App Router, TypeScript, Paymob Payments, and Bosta Shipping. | [View Live](https://origami-aura.vercel.app/en) |
-| 🌸 **Blooms Egypt** | E-Commerce Platform & Admin Dashboard with Mastercard Checkout Integration and Core Web Vitals Optimization. | [View Live](https://bloomsegypt.com) |
-| 💼 **MyCash** | Internal SaaS Platforms serving active business users across Saudi Arabia (KSA) with React & TanStack Query. | [View Live](https://mycash.sa) |
-| 🏢 **Edge BPO** | High-performance Next.js application with structured JSON-LD schema markup for enhanced organic search indexing. | [View Live](https://edgebpo.com) |
-
----
-
-<div align="center">
-
-### 📊 GitHub Activity
-
-![Zyad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyadmoataz&show_icons=true&theme=tokyonight&hide_border=true)
-
-</div>
+| 🌸 **Blooms Egypt** | E-Commerce Platform & Admin Dashboard with Mastercard Checkout Integration. | [bloomsegypt.com](https://bloomsegypt.com) |
+| 💼 **MyCash** | Internal SaaS platforms serving active business users in Saudi Arabia (KSA). | [mycash.sa](https://mycash.sa) |
+| 🛍️ **Origami Aura** | Full-Stack E-Commerce CMS (Freelance MVP) with Paymob Payments and Bosta Shipping. | [View App](https://origami-aura.vercel.app/en) |
+| 🌐 **Edge BPO** | Responsive Next.js web app with structured JSON-LD schema for search indexing. | [edgebpo.com](https://edgebpo.com) |
