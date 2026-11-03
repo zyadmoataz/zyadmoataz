@@ -20,7 +20,7 @@ I am a results-oriented **Frontend Engineer** with 2+ years of hands-on producti
 - 🛍️ **Production & Regional Scope:** Built e-commerce platforms, SaaS portals, and marketing engines across Egypt and Saudi Arabia (KSA).
 - 💳 **Payment Checkout Systems:** Integrated secure, production payment gateways with **Mastercard** (Blooms Egypt) and **Paymob** (Origami Aura).
 - ⚡ **Performance & State Caching:** Improved Core Web Vitals (CLS) by **~35%** and eliminated up to **~40%** of redundant server queries using **TanStack Query** caching strategies.
-- 🤖 **AI-Assisted Efficiency:** Proficient in leveraging AI tooling (GitHub Copilot, Claude, Gemini) for fast prototyping, automated test generation, and comprehensive code audits—doubling engineering velocity while maintaining clean architecture.
+- 🤖 **AI-Assisted Efficiency:** Proficient in leveraging AI tooling (GitHub Copilot, Claude, Gemini, Codex) for fast prototyping, automated test generation, and comprehensive code audits—doubling engineering velocity while maintaining clean architecture.
 - 👥 **Technical Ownership:** Led frontend delivery for a 7-person engineering team at Blooms Egypt—managing sprint goals, PR code reviews, and coding standards.
 - 🚀 **Adaptability & Growth Mindset:** Highly adaptable to diverse team structures and tech stacks; fast learner with a proven ability to adopt new tools and frameworks seamlessly.
 
