@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Frontend Engineer with 2+ years of production experience building web applications using **React.js, Next.js, TypeScript, and Tailwind CSS**. 
+I'm a Frontend Engineer with 2+ years of production experience building web applications using **React.js, Next.js, TypeScript, and Tailwind CSS**.
 
 - 🛍️ **Production Experience:** Built e-commerce platforms, SaaS dashboards, and marketing web apps across Egypt and Saudi Arabia (KSA).
 - 💳 **Payment Integrations:** Integrated secure checkout flows with **Mastercard** (Blooms Egypt) and **Paymob** (Origami Aura).
@@ -44,5 +44,14 @@ I'm a Frontend Engineer with 2+ years of production experience building web appl
 | :--- | :--- | :---: |
 | 🌸 **Blooms Egypt** | E-Commerce Platform & Admin Dashboard with Mastercard Checkout Integration. | [bloomsegypt.com](https://bloomsegypt.com) |
 | 💼 **MyCash** | Internal SaaS platforms serving active business users in Saudi Arabia (KSA). | [mycash.sa](https://mycash.sa) |
-| 🛍️ **Origami Aura** | Full-Stack E-Commerce CMS (Freelance MVP) with Paymob Payments and Bosta Shipping. | [View App](https://origami-aura.vercel.app/en) |
+| 🛍️ **Origami Aura** | Full-Stack E-Commerce CMS (Freelance MVP) with Paymob Payments and Bosta Shipping. | [origami-aura.vercel.app](https://origami-aura.vercel.app/en) |
 | 🌐 **Edge BPO** | Responsive Next.js web app with structured JSON-LD schema for search indexing. | [edgebpo.com](https://edgebpo.com) |
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zyadmoataz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Zyad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyadmoataz&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</div>
