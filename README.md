@@ -14,11 +14,11 @@ Frontend developer with 2 years of experience shipping production web apps with 
 - **Origami Aura (freelance, in progress):** bilingual e-commerce marketplace in Next.js; Paymob and Bosta integrations in progress.
 
 ## Tech
-**Frontend:** React.js, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3, Angular (projects)
-**State & data:** TanStack Query, Redux Toolkit, Zustand, React Hook Form, Zod, Axios, REST APIs
-**Backend (working knowledge):** Node.js, Express, MongoDB, SQL
-**Testing & tools:** Jest, Playwright, Sentry, Git, Figma
-**AI-assisted workflow:** Spec-Kit, Opus and Gemini Flash, with human code review
+- **Frontend:** React.js, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3, Angular (projects)
+- **State & data:** TanStack Query, Redux Toolkit, Zustand, React Hook Form, Zod, Axios, REST APIs
+- **Backend (working knowledge):** Node.js, Express, MongoDB, SQL
+- **Testing & tools:** Jest, Playwright, Sentry, Git, Figma
+- **AI-assisted workflow:** Spec-Kit, Opus and Gemini Flash, with human code review
 
 ## Live work
 | Project | Role | Link |
