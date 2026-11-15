@@ -1,35 +1,40 @@
-# Hi, I'm Zyad Moataz
+# Zyad Moataz
 
-**Frontend Developer | React.js & Next.js | Security, Performance & SEO**
+**Mid Frontend Engineer | React.js, Next.js & TypeScript**  
+Security Hardening (`HttpOnly` Auth, XSS/CSRF) · Core Web Vitals (`Lighthouse 99`) · Live Payment Gateways (`Mastercard`, `Paymob`)
 
-[LinkedIn](https://www.linkedin.com/in/zyad-moataz) · [Portfolio](https://portfolio-react-js-navy.vercel.app/) · [Email](mailto:ziaadmoataz@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/zyad-moataz) · [Portfolio](https://portfolio-react-js-navy.vercel.app/) · [Email](mailto:ziaadmoataz@gmail.com) · Cairo, Egypt (Open to Remote & Relocation)
 
-## About
-Frontend developer with 2 years of experience shipping production web apps with React, Next.js, TypeScript and Tailwind CSS across corporate sites, SaaS platforms and e-commerce. I design frontend architecture, harden security (XSS, CSRF, HttpOnly auth), and improve SEO and Core Web Vitals.
+---
 
-## Selected work
-- **Blooms Egypt (Frontend Team Lead):** designed the architecture of a 15+ page Next.js public website and its CMS dashboard; led 7 developers; moved auth tokens from localStorage to HttpOnly cookies; built the frontend side of the Mastercard integration; raised Lighthouse performance from ~62 to 99 (desktop).
-- **MyCash (Frontend Engineer):** internal SaaS platforms with React, TypeScript, Tailwind CSS and TanStack Query.
-- **Edge BPO (freelance):** Next.js site with SSR, sitemap, robots.txt and JSON-LD; Lighthouse performance 47 to 99 (desktop).
-- **Origami Aura (freelance, in progress):** bilingual e-commerce marketplace in Next.js; Paymob and Bosta integrations in progress.
+### What I Ship in Production
 
-## Tech
-- **Frontend:** React.js, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3, Angular (projects)
-- **State & data:** TanStack Query, Redux Toolkit, Zustand, React Hook Form, Zod, Axios, REST APIs
-- **Backend (working knowledge):** Node.js, Express, MongoDB, SQL
-- **Testing & tools:** Jest, Playwright, Sentry, Git, Figma
-- **AI-assisted workflow:** Spec-Kit, Opus and Gemini Flash, with human code review
+Frontend Engineer with **2+ years of experience** building and leading production web applications across SaaS platforms, bilingual e-commerce marketplaces, and corporate portals. I focus on type-safe architecture, frontend security, server-state caching, and measurable Web Vitals improvements.
 
-## Live work
-| Project | Role | Link |
-|---|---|---|
-| Blooms Egypt | Architecture, frontend lead | [bloomsegypt.com](https://bloomsegypt.com) |
-| MyCash | Frontend engineer | [mycash.sa](https://www.mycash.sa) |
-| Edge BPO | Freelance frontend | [edgebpo.com](https://www.edgebpo.com) |
-| Origami Aura | Freelance, in progress | [origami-aura.vercel.app](https://origami-aura.vercel.app/en) |
+| Production System | Role | Engineering Highlights & Impact | Live Link |
+| :--- | :--- | :--- | :--- |
+| **Blooms Egypt** | Frontend Team Lead & Engineer | Architected a **15+ page Next.js** public platform + custom CMS across **7 developers**; migrated session auth from `localStorage` to **`HttpOnly` cookies** (XSS/CSRF audit); integrated **Mastercard** checkout; lifted desktop Lighthouse Performance from **62 → 99** (`100 SEO`) using Clarity & GSC telemetry. | [bloomsegypt.com](https://bloomsegypt.com) |
+| **MyCash (Saudi Arabia)** | Frontend Engineer | Built and maintained two internal production SaaS platforms (**Nekhdmak & Shohna**) in React, TypeScript, Tailwind CSS & **TanStack Query**; redesigned cache invalidation to cut redundant API network requests by **~40%**; shipped reusable accessible UI components + **Jest/Playwright** tests. | [mycash.sa](https://www.mycash.sa) |
+| **Edge BPO** | Freelance Frontend Engineer | Migrated core pages to **Next.js SSR** with dynamic XML sitemaps, `robots.txt`, and **JSON-LD** structured data—lifting desktop Lighthouse Performance from **47 → 99** (`100 SEO`). | [edgebpo.com](https://www.edgebpo.com) |
+| **Origami Aura** | Freelance Frontend Engineer | Building a bilingual (**Arabic/English**) e-commerce marketplace and admin dashboard (`Next.js`, `TypeScript`, `TanStack Query`, `Redux`, `Node.js`, `MongoDB`) with **Paymob** payments and **Bosta** automated shipping APIs (`90+ Lighthouse SSR`). | [origami-aura.vercel.app](https://origami-aura.vercel.app/en) |
 
+---
 
-## Projects
-- [Customer Support Operations Platform](https://github.com/zyadmoataz/Customer-Support-Operations-Platform): React 19 customer portal and Angular 18 staff workspace on Supabase with Row-Level Security.
-- [Pharaonic](https://github.com/zyadmoataz/Pharaonic): Next.js travel platform concept with AI trip planning, permits and membership tiers.
-- [Clinic Website](https://github.com/zyadmoataz/Clinic-Website) and [Clinic Dashboard](https://github.com/zyadmoataz/Clinic-Dashboard): React patient site and Angular staff dashboard, in Arabic and English.
+### Featured Open-Source & Architecture Repositories
+
+- **[Customer Support Operations Platform](https://github.com/zyadmoataz/Customer-Support-Operations-Platform)** · [Live Demo](https://customer-support-operations-platfor.vercel.app)  
+  Multi-role support ticketing system pairing a **React 19** customer portal with an **Angular 18** staff workspace backed by **Supabase (PostgreSQL + Row-Level Security)** across customer, agent, and manager roles.
+- **[Clinic Management Ecosystem — Patient Website](https://github.com/zyadmoataz/Clinic-Website)** ([Live](https://clinic-website-brown-pi.vercel.app)) & **[Staff Dashboard](https://github.com/zyadmoataz/Clinic-Dashboard)** ([Live](https://clinic-dashboard-ashy.vercel.app))  
+  Bilingual (Arabic/English) healthcare booking portal (`React 19`, `TypeScript`, `TanStack Query`, `Tailwind CSS`) paired with a role-based staff operations dashboard (`Angular 21`, `Signals`, `ngx-translate`).
+- **[Pharaonic](https://github.com/zyadmoataz/Pharaonic)** · [Live Demo](https://pharaonic-guide.vercel.app)  
+  Next.js travel platform for Egypt featuring AI trip planning, travel permit workflows, private guide booking, and membership tiers.
+
+---
+
+### Technical Toolbox
+
+- **Frontend Core:** React.js (v18/19), Next.js (App & Pages Router, SSR/ISR), TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3, Angular, WCAG Accessibility
+- **State, Forms & Data:** TanStack Query (React Query), Zustand, Redux Toolkit, Context API, React Hook Form, Zod, REST APIs, Axios
+- **Security, Performance & SEO:** `HttpOnly` Cookie Auth, XSS/CSRF Mitigation, Core Web Vitals (LCP, INP, CLS), Lighthouse Optimization, JSON-LD Schema, Google Search Console, Microsoft Clarity
+- **Backend, Testing & Tooling:** Node.js, Express.js, MongoDB, SQL, Jest, Playwright, Sentry, Git, GitHub, CI/CD, Figma, Agile
+- **Spec-Driven AI Workflows:** Spec-Kit (spec-driven planning), Model Routing (Opus for architecture, Gemini Flash for execution), AI-assisted Jest/Playwright test generation with mandatory human PR review
