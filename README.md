@@ -27,3 +27,9 @@ Frontend developer with 2 years of experience shipping production web apps with 
 | MyCash | Frontend engineer | [mycash.sa](https://www.mycash.sa) |
 | Edge BPO | Freelance frontend | [edgebpo.com](https://www.edgebpo.com) |
 | Origami Aura | Freelance, in progress | [origami-aura.vercel.app](https://origami-aura.vercel.app/en) |
+
+
+## Projects
+- [Customer Support Operations Platform](https://github.com/zyadmoataz/Customer-Support-Operations-Platform): React 19 customer portal and Angular 18 staff workspace on Supabase with Row-Level Security.
+- [Pharaonic](https://github.com/zyadmoataz/Pharaonic): Next.js travel platform concept with AI trip planning, permits and membership tiers.
+- [Clinic Website](https://github.com/zyadmoataz/Clinic-Website) and [Clinic Dashboard](https://github.com/zyadmoataz/Clinic-Dashboard): React patient site and Angular staff dashboard, in Arabic and English.
