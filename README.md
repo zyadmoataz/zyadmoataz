@@ -1,7 +1,7 @@
 # Zyad Moataz
 
 **Mid Frontend Engineer | React.js, Next.js & TypeScript**  
-Security Hardening (`HttpOnly` Auth, XSS/CSRF) · Core Web Vitals (`Lighthouse 99`) · Multi-Locale (`i18n` / RTL) · Live Payment Gateways (`Mastercard`, `Paymob`)
+Security Hardening (`HttpOnly` Auth, XSS/CSRF) · Core Web Vitals (`Lighthouse 99`) · Multi-Locale (`i18n` / RTL) · Live Payment Gateways (`Mastercard`)
 
 [LinkedIn](https://www.linkedin.com/in/zyad-moataz) · [Portfolio](https://portfolio-react-js-navy.vercel.app/) · [Email](mailto:ziaadmoataz@gmail.com) · Cairo, Egypt (Open to Remote & Relocation)
 
@@ -9,14 +9,14 @@ Security Hardening (`HttpOnly` Auth, XSS/CSRF) · Core Web Vitals (`Lighthouse 9
 
 ### What I Ship in Production
 
-Frontend Engineer with **2+ years of experience** building and leading production web applications across SaaS platforms, multi-language e-commerce marketplaces, and corporate portals. I focus on type-safe architecture, frontend security, scalable localization (`i18next` / `ngx-translate` so new languages drop in without touching components), server-state caching, and measurable Web Vitals improvements.
+Frontend Engineer with **2+ years of experience** building and leading production web applications across SaaS platforms, multi-language web apps, and corporate portals. I focus on type-safe architecture, frontend security, scalable localization (`i18next` / `ngx-translate` so new languages drop in without touching components), server-state caching, and measurable Web Vitals improvements.
 
 | Production System | Role | Engineering Highlights & Impact | Live Link |
 | :--- | :--- | :--- | :--- |
 | **Blooms Egypt** | Frontend Team Lead & Engineer | Architected a **15+ page Next.js** public platform + custom CMS across **7 developers**; migrated session auth from `localStorage` to **`HttpOnly` cookies** (XSS/CSRF audit); integrated **Mastercard** checkout; lifted desktop Lighthouse Performance from **62 → 99** (`100 SEO`) using Clarity & GSC telemetry. | [bloomsegypt.com](https://bloomsegypt.com) |
 | **MyCash (Saudi Arabia)** | Frontend Engineer | Built and maintained two internal production SaaS platforms (**Nekhdmak & Shohna**) in React, TypeScript, Tailwind CSS & **TanStack Query**; redesigned cache invalidation to cut redundant API network requests by **~40%**; shipped reusable accessible UI components + **Jest/Playwright** tests. | [mycash.sa](https://www.mycash.sa) |
 | **Edge BPO** | Freelance Frontend Engineer | Migrated core pages to **Next.js SSR** with dynamic XML sitemaps, `robots.txt`, and **JSON-LD** structured data—lifting desktop Lighthouse Performance from **47 → 99** (`100 SEO`). | [edgebpo.com](https://www.edgebpo.com) |
-| **Origami Aura** | Freelance Frontend Engineer | Building a multi-locale (**i18n + RTL/LTR**) e-commerce marketplace and admin dashboard (`Next.js`, `TypeScript`, `TanStack Query`, `Redux`, `Node.js`, `MongoDB`) with **Paymob** payments and **Bosta** automated shipping APIs (`90+ Lighthouse SSR`). | [origami-aura.vercel.app](https://origami-aura.vercel.app/en) |
+| **Origami Aura (Storefront UI)** | Freelance Frontend Engineer | Built the responsive multi-locale (**i18n + RTL/LTR**) e-commerce storefront UI (`Next.js`, `TypeScript`, `Tailwind CSS`, `TanStack Query`, `Redux Toolkit`) covering product catalog, filtering, cart state, and seller onboarding (`90+ Lighthouse SSR`). | [origami-aura.vercel.app](https://origami-aura.vercel.app/en) |
 
 ---
 
@@ -36,5 +36,5 @@ Frontend Engineer with **2+ years of experience** building and leading productio
 - **Frontend Core & i18n:** React.js (v18/19), Next.js (App & Pages Router, SSR/ISR), TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3, Angular, Scalable Multi-Language Architecture (`i18next`, `ngx-translate`, RTL/LTR), WCAG Accessibility
 - **State, Forms & Data:** TanStack Query (React Query), Zustand, Redux Toolkit, Context API, React Hook Form, Zod, REST APIs, Axios
 - **Security, Performance & SEO:** `HttpOnly` Cookie Auth, XSS/CSRF Mitigation, Core Web Vitals (LCP, INP, CLS), Lighthouse Optimization, JSON-LD Schema, Google Search Console, Microsoft Clarity
-- **Backend, Testing & Tooling:** Node.js, Express.js, MongoDB, SQL, Jest, Playwright, Sentry, Git, GitHub, CI/CD, Figma, Agile
+- **Testing & Tooling:** Jest, Playwright, Sentry, Git, GitHub, CI/CD, Figma, Agile, Working knowledge of Node.js & SQL/NoSQL APIs
 - **Spec-Driven AI Workflows:** Spec-Kit (spec-driven planning), Model Routing (Opus for architecture, Gemini Flash for execution), AI-assisted Jest/Playwright test generation with mandatory human PR review
