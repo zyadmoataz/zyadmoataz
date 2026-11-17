@@ -29,7 +29,7 @@ Over **2+ years** building for Egyptian and Saudi companies, I've owned architec
 
 ---
 
-### Featured Architecture & Full-Stack Repositories
+### Featured Architecture & Full-Stack Repositories (All 6 Pinned Projects)
 
 Every pinned repository below runs live in production on Vercel with strict TypeScript, SOLID/DRY module boundaries, and zero broken mock endpoints:
 
@@ -40,6 +40,7 @@ Every pinned repository below runs live in production on Vercel with strict Type
 | **[Clinic Website (Patient Portal)](https://github.com/zyadmoataz/Clinic-Website)** | Patient booking, smart queue ticketing (`QR` + `.ics` calendar export), and e-prescription portal featuring a **Dual-Layer HTTP Mock Adapter** (`auto`/`api`/`mock`), `i18next` RTL/LTR, and open-redirect guards. | `React 19` · `TypeScript` · `TanStack Query v5` · `Zustand` · `Zod` | [Live](https://clinic-website-brown-pi.vercel.app) |
 | **[Clinic Dashboard (Staff Portal)](https://github.com/zyadmoataz/Clinic-Dashboard)** | Role-based clinical operations suite (Admin, Receptionist, Doctor) powered by **Angular 21 Signals**, functional `mockBackendInterceptor`, `Chart.js` analytics, and `ngx-translate` bilingual support. | `Angular 21` · `Signals` · `TypeScript` · `RxJS` · `Tailwind v4` | [Live](https://clinic-dashboard-ashy.vercel.app) |
 | **[Pharaonic](https://github.com/zyadmoataz/Pharaonic)** | Travel platform for Egypt featuring AI itinerary generation, permit request workflows, private guide directory, membership comparison tiers, and full Open Graph / SEO metadata. | `Next.js` · `TypeScript` · `Tailwind CSS` | [Live](https://pharaonic-guide.vercel.app) |
+| **[Kanban Angular Workspace](https://github.com/zyadmoataz/Kanban-Angular-Project)** | Interactive multi-board task management workspace featuring native HTML5 drag-and-drop, **Angular 21 Signals** reactive `localStorage` persistence, dynamic `FormArray` modals, and dark/light theming. | `Angular 21` · `Signals` · `Reactive Forms` · `TypeScript` · `Tailwind` | [Live](https://kanban-angular-project.vercel.app) |
 
 ---
 
