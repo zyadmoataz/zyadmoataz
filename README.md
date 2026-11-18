@@ -5,7 +5,7 @@
 ### Mid Frontend Engineer · React.js, Next.js & TypeScript
 **Security Hardening (`HttpOnly` Auth · XSS/CSRF) · Core Web Vitals (`Lighthouse 99`) · Scalable `i18n` / RTL Architecture**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-react-js-navy.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://zyadmoataz.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zyad-moataz)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201012766890?text=Hi%20Zyad%2C%20I%20reviewed%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20regarding%20a%20Frontend%20Engineering%20role.)
 [![Email](https://img.shields.io/badge/Email-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziaadmoataz@gmail.com?subject=Frontend%20Engineer%20Opportunity)
