@@ -39,7 +39,7 @@ Every pinned repository below runs live in production on Vercel with strict Type
 | **[Customer Support Operations Platform](https://github.com/zyadmoataz/Customer-Support-Operations-Platform)** | Dual-frontend enterprise ticketing system pairing a **React 19** customer portal with an **Angular 18** staff workspace backed by **Supabase PostgreSQL + Row-Level Security (RLS)** and `PL/pgSQL` RPCs. | `React 19` · `Angular 18` · `TypeScript` · `Supabase RLS` · `TanStack Query` | [Live](https://customer-support-operations-platfor.vercel.app) |
 | **[Clinic Website (Patient Portal)](https://github.com/zyadmoataz/Clinic-Website)** | Patient booking, smart queue ticketing (`QR` + `.ics` calendar export), and e-prescription portal featuring a **Dual-Layer HTTP Mock Adapter** (`auto`/`api`/`mock`), `i18next` RTL/LTR, and open-redirect guards. | `React 19` · `TypeScript` · `TanStack Query v5` · `Zustand` · `Zod` | [Live](https://clinic-website-brown-pi.vercel.app) |
 | **[Clinic Dashboard (Staff Portal)](https://github.com/zyadmoataz/Clinic-Dashboard)** | Role-based clinical operations suite (Admin, Receptionist, Doctor) powered by **Angular 21 Signals**, functional `mockBackendInterceptor`, `Chart.js` analytics, and `ngx-translate` bilingual support. | `Angular 21` · `Signals` · `TypeScript` · `RxJS` · `Tailwind v4` | [Live](https://clinic-dashboard-ashy.vercel.app) |
-| **[Pharaonic](https://github.com/zyadmoataz/Pharaonic)** | Travel platform for Egypt featuring AI itinerary generation, permit request workflows, private guide directory, membership comparison tiers, and full Open Graph / SEO metadata. | `Next.js` · `TypeScript` · `Tailwind CSS` | [Live](https://pharaonic-guide.vercel.app) |
+| **[Pharaonic](https://github.com/zyadmoataz/Pharaonic)** | Travel platform for Egypt featuring AI itinerary generation, permit request workflows, private guide directory, membership comparison tiers, and full Open Graph / SEO metadata. | `Next.js` · `TypeScript` · `Tailwind CSS` | [Live](https://pharaonic.vercel.app/) |
 | **[Kanban Angular Workspace](https://github.com/zyadmoataz/Kanban-Angular-Project)** | Interactive multi-board task management workspace featuring native HTML5 drag-and-drop, **Angular 21 Signals** reactive `localStorage` persistence, dynamic `FormArray` modals, and dark/light theming. | `Angular 21` · `Signals` · `Reactive Forms` · `TypeScript` · `Tailwind` | [Live](https://kanban-angular-project.vercel.app) |
 
 ---
@@ -56,5 +56,5 @@ Every pinned repository below runs live in production on Vercel with strict Type
 
 ### Let's Connect
 
-Open to **Mid Frontend Engineer** roles (Cairo Hybrid/Remote, GCC/Global Remote, or Relocation).  
+Open to **Mid Frontend Engineer** roles — **Full-Time, Part-Time, Contract & Freelance** (Remote, Cairo Hybrid, or Relocation).  
 Reach out directly via **[Email](mailto:ziaadmoataz@gmail.com?subject=Frontend%20Engineer%20Opportunity)** or **[WhatsApp](https://wa.me/201012766890?text=Hi%20Zyad%2C%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20regarding%20a%20Frontend%20Engineering%20role.)**.
